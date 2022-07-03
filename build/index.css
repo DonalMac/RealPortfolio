@@ -305,6 +305,7 @@ p {
   max-width: 300px;
   display: block;
   position: relative;
+  border-radius: 5px;
 }
 
 .skills-list {
@@ -340,6 +341,7 @@ p {
   max-width: 100%;
   display: block;
   position: relative;
+
 }
 
 .project-left-align,
@@ -568,7 +570,7 @@ footer {
 
   .profile-image {
     margin: 50px auto;
-    width: 70%;
+    width: 100%;
   }
 
   /* Projects */
